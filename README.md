@@ -1,3 +1,10 @@
+<img
+	src="Outside-B&W.jpg"
+	width="15rem"
+	height="15rem"
+	style="border-radius: 50%"
+/>
+
 # Hola, Mi nombre es Johann Rojas 👋
 		
 <div align="center" style="display: flex; align-items:center; justify-content: center;" >
