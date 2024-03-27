@@ -11,7 +11,7 @@
 	/>
 </div>
 
-Desarrollador con +4 años de experiencia.
+Desarrollador con +5 años de experiencia.
 
 He desempeñado mi carrera a lo largo de diversos sectores como lo son el Inmobiliario, Banca, Salud y Transporte. Desarrollando Apps moviles y Apps web a la medida.
 
