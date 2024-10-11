@@ -7,7 +7,7 @@
 	align-items:center; 
 	justify-content: center; 
 	flex-direction: column;">
-	<h3>A Fulstaack Developer</h3>
+	<h3>A Fullstack Developer</h3>
 	<div style="
 		display: flex;
 		align-items: center;
@@ -36,7 +36,7 @@
 			width="30px"
 			height="30px"
 			style="margin-left:1rem; align-self: center;"
-			src="imgs/nextjs_logo_light.svg"
+			src="imgs/nextjs_icon_dark.svg"
 		/>
 		<img
 			width="30px"
@@ -60,7 +60,7 @@
 			width="30px"
 			height="30px"
 			style="margin-left:1rem; align-self: center;"
-			src="imgs/expressjs.svg"
+			src="imgs/expressjs_dark.svg"
 		/>
 	</div>
 </div>
